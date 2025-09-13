@@ -21,7 +21,7 @@ This project simulates the network infrastructure for a medium-sized company usi
 - `network-design.pkt` – Packet Tracer topology
 - `project-report.pdf` – Detailed project explanation
 - `topology.png` – Network diagram
-- `config-notes.txt` – Key CLI commands
+
 
 ## 🧠 Skills Applied
 
